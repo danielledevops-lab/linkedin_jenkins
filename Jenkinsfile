@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Message') {
       steps {
-        echo 'Bonjour , suis debutante!'
+        echo 'mouf'
       }
     }
 
